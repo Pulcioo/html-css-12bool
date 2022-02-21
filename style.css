@@ -15,6 +15,10 @@
     height: 50px;
 }
 
+.height-40{
+    height: 50px;
+}
+
 .debug{
     border: 1px solid white;
 }
@@ -35,6 +39,10 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.margin-bottom{
+    margin-bottom: 20px;
 }
 
 /* header */
