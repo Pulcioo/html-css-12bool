@@ -1,0 +1,44 @@
+/* utility */
+.bg-blue{
+    background-color: rgb(50, 50, 250);
+}
+
+.bg-green{
+    background-color: lightgreen;
+}
+
+.height-80{
+    height: 80px;
+}
+
+.height-50{
+    height: 50px;
+}
+
+.debug{
+    border: 1px solid white;
+}
+
+.debug-blue{
+    border: 1px solid rgb(50, 50, 250);
+}
+
+.white{
+    color: white;
+}
+
+.padding-10{
+    padding: 10px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* header */
+header>h1{
+    margin-bottom: 5px;
+}
+
